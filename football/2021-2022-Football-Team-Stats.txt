@@ -1,0 +1,316 @@
+                                                                         Last            Top Team
+RkSquad       CountryLgRkMP W D L GF GA GD Pts Pts/G xG xGA xGD xGD/90 5      AttendanceScorer          Goalkeeper
+                                                                         W
+                                                                         W
+   Manchester                                                            W               Kevin De
+ 1City        ENG       1 37 28 6 3 96 24 72 90 2.43 86.1 26.8 59.3   1.6W D       52739Bruyne - 15 Ederson
+                                                                         W
+                                                                         W
+                                                                         WD              Mohamed
+ 2Liverpool   ENG       2 36 26 8 2 89 24 65 86 2.39 84.6 33.1 51.4  1.43W         53367Salah - 22 Alisson
+                                                                         W               Karim
+                                                                         WL              Benzema - Thibaut
+ 3Real Madrid ESP       1 37 26 7 4 80 31 49 85 2.3 73 45.8 27.2     0.73W D       4062427              Courtois
+                                                                         W               Robert
+   Bayern                                                                WL              Lewandowski
+ 4Munich      GER       1 34 24 5 5 97 37 60 77 2.26 88.1 37.1 51     1.5D D       33176- 35            Manuel Neuer
+                                                                         WD
+                                                                         DD
+ 5Paris S-G   FRA       1 37 25 8 4 85 36 49 83 2.24 71.6 38.1 33.4   0.9W         41188                Keylor Navas
+                                                                         W
+                                                                         W
+                                                                         W
+                                                                         W
+ 6Milan       ITA       1 37 25 8 4 66 31 35 83 2.24 60 34.4 25.6    0.69W         42388                Mike Maignan
+                                                                         WL
+                                                                         W
+                                                                         W                              Samir
+ 7Inter       ITA       2 37 24 9 4 81 32 49 81 2.19 78.1 38.2 39.9  1.08W         41995                Handanovi?
+                                                                         DL
+                                                                         W
+                                                                         W               Victor
+ 8Napoli      ITA       3 37 23 7 7 71 31 40 76 2.05 58.5 29.9 28.6  0.77W         26681Osimhen - 14David Ospina
+                                                                         WL
+                                                                         LW              Erling
+ 9Dortmund    GER       2 34 22 3 9 85 52 33 69 2.03 62.8 43.2 19.6  0.58W         41800Haaland - 22 Gregor Kobel
+                                                                         LW
+                                                                         W               Memphis
+10Barcelona ESP         2 37 21 10 6 68 36 32 73 1.97 61.3 35.2 26.1 0.71W D       53933Depay - 12
+                                                                         WD
+                                                                         LD              Mason          Edouard
+11Chelsea     ENG       3 36 20 10 6 73 31 42 70 1.94 63.2 34.9 28.4 0.79W         36991Mount - 11 Mendy
+                                                                         WD
+                                                                         W               Paulo Dybala Wojciech
+12Juventus    ITA       4 36 20 9 7 55 33 22 69 1.92 50.5 35.4 15.2  0.42W L       21627- 10            Szcz?sny
+                                                                         LW
+                                                                         W
+                                                                         W               Patrik Schick
+13Leverkusen GER        3 34 19 7 8 80 47 33 64 1.88 63.3 43.1 20.2  0.59W         17356- 24
+                                                                         W
+                                                                         W
+                                                                         W
+                                                                         W               Wissam Ben
+14Monaco      FRA       2 37 20 8 9 63 38 25 68 1.84 56.8 39.7 17.1  0.46W          5870Yedder - 24
+                                                                         DW
+                                                                         DW              Son Heung-
+15Tottenham ENG         4 37 21 5 11 64 40 24 68 1.84 61.5 39 22.5   0.61W         56234min - 21        Hugo Lloris
+                                                                         W
+                                                                         WL              Dimitri Payet
+16Marseille   FRA       3 37 20 8 9 59 38 21 68 1.84 56.6 39.2 17.4  0.47W L       51082- 12
+                                                                         DL
+                                                                         W
+17            ESP       3 37 20 8 9 63 42 21 68 1.84 51 30.9 20.1    0.56W D       48039                Jan Oblak
+                                                                         W
+                                                                         W
+                                                                         W               Bukayo Saka Aaron
+18Arsenal     ENG       5 36 21 3 12 56 45 11 66 1.83 56.3 44 12.2   0.34W L       59636- 11            Ramsdale
+                                                                         WD
+                                                                         DD                             Yassine
+19Sevilla     ESP       4 37 17 16 4 52 30 22 67 1.81 42 36.8 5.2    0.14D         29669Rafa Mir - 9 Bounou
+                                                                         LW
+                                                                         WL              Martin Terrier
+20Rennes      FRA       4 37 20 5 12 80 38 42 65 1.76 61.2 39.2 22    0.6W         25309- 21            Alfred Gomis
+                                                                         LD
+                                                                         LW
+21Betis       ESP       5 37 19 7 11 62 40 22 64 1.73 54 42.9 11.1    0.3W         41749Juanmi - 16 Rui Silva
+                                                                               WD        Ciro
+                                                                               LW        Immobile -      Thomas
+22Lazio        ITA     5 36 18 8 10 72 53 19 62 1.72 52.3 45.8 6.5        0.18W     2123527              Strakosha
+                                                                               WL
+                                                                               LW        Christopher
+23RB Leipzig   GER     4 34 17 7 10 72 37 35 58 1.71 63.4 41.8 21.6       0.64D     22124Nkunku - 20
+                                                                               WL
+                                                                               DW        Ludovic
+24Strasbourg   FRA     5 37 17 12 8 60 39 21 63     1.7 58.5 39.9 18.5     0.5W     23462Ajorque - 12 Matz Sels
+                                                                               LW
+                                                                               W         Andy Delort -
+25Nice         FRA     6 37 19 7 11 49 34 15 63     1.7 55.1 44.4 10.6    0.29W L   1547813
+                                                                               W
+                                                                               WD
+                                                                               W         Taiwo        Andreas
+26Union Berlin GER     5 34 16 9 9 50 44     6 57 1.68 50.5 41.6 8.8      0.26W     14046Awoniyi - 15 Luthe
+                                                                               LD
+  Real                                                                         LW        Mikel
+27Sociedad     ESP     6 37 17 11 9 39 35    4 62 1.68 51.5 38.9 12.5     0.34W     26992Oyarzabal - 9
+                                                                               WD        Arnaud
+                                                                               DW        Kalimuendo - Jean-Louis
+28Lens         FRA     7 37 17 10 10 60 46 14 61 1.65 50.5 41.2 9.3       0.25W     2846012            Leca
+                                                                               WL
+                                                                               LL                        Pietro
+29Fiorentina   ITA     7 36 18 5 13 56 47    9 59 1.64 55.4 42.4 12.9     0.36W     19801                Terracciano
+                                                                               DL        Tammy
+                                                                               DL        Abraham -
+30Roma         ITA     6 37 17 9 11 56 43 13 60 1.62 61.1 37.8 23.3       0.63D     4074515
+                                                                               WD
+                                                                               WL        Vincenzo
+31Freiburg     GER     6 34 15 10 9 58 46 12 55 1.62 49.9 45.1 4.8        0.14L     18741Grifo - 9       Mark Flekken
+                                                                               WD
+                                                                               DW
+32Atalanta     ITA     8 37 16 11 10 65 47 18 59 1.59 62.4 44.8 17.6      0.48L     10047                Juan Musso
+                                                                               LW
+                                                                               WL                        Anthony
+33Lyon         FRA     8 37 16 11 10 64 50 14 58 1.57 68.3 52.4 15.9      0.43W     31103                Lopes
+                                                                               LL
+  Manchester                                                                   DW        Cristiano
+34Utd        ENG       6 37 16 10 11 57 56   1 58 1.57 53.9 54.3 -0.4    -0.01L     73150Ronaldo - 18 David de Gea
+                                                                               W
+                                                                               W
+                                                                               WL        Anthony
+35             GER     7 34 14 10 10 52 49   3 52 1.53 50.9 51.9 -1.1    -0.03L     31965Modeste - 20
+                                                                               WL        Arnaut
+                                                                               DW        Groeneveld -
+36Villarreal   ESP     7 37 15 11 11 61 37 24 56 1.51 61.8 45.9 16        0.43L     1429310
+                                                                               DL
+                                                                               LW        Jarrod     ?ukasz Fabia?
+37West Ham     ENG     7 37 16 8 13 59 48 11 56 1.51 49.8 49.4 0.4        0.01D     58370Bowen - 12 ski
+                                                                               W
+                                                                               WD
+38Athletic Club ESP    8 37 14 13 10 43 35   8 55 1.49 49.3 36.9 12.4     0.33L W   32949
+                                                                               LW
+                                                                    -          DW        Randal Kolo
+39Nantes       FRA     9 37 15 9 13 54 47    7 54 1.46 41.7 53.8 12.1    -0.33L     20368Muani - 12 Alban Lafont
+                                                                               LW
+                                                                               LL        Jonathan
+40Lille        FRA    10 37 14 12 11 46 46   0 54 1.46 50.9 39.3 11.6     0.31W     34025David - 15      Ivo Grbi?
+                                                                               WD
+  Hellas                                                                       WL        Giovanni
+41Verona       ITA     9 37 14 10 13 62 56   6 52 1.41 50.2 46.5 3.7       0.1L     12343Simeone - 16
+                                                                               LL
+                                                                    -          DL
+                                                                 22.2          D
+42Wolves       ENG     8 37 15 6 16 37 40 -3 51 1.38 34.8 57              -0.6      30777
+                                                                               WD                        Vanja
+                                                                               WL        Andrea          Milinkovi?-
+43Torino       ITA    10 37 13 11 13 46 38   8 50 1.35 48 37.3 10.7       0.29W      9160Belotti - 8     Savi?
+                                                                               DL
+                                                                               W         Jonathan
+44Mainz 05     GER     8 34 13 7 14 50 45    5 46 1.35 51 46        5     0.15W D   17978Burkardt - 11 Robin Zentner
+                                                                               LL        Gianluca
+                                                                               LD        Scamacca - Andrea
+45Sassuolo     ITA    11 37 13 11 13 64 63   1 50 1.35 55.6 63.9 -8.3    -0.22W      763816            Consigli
+                                                                               DD
+                                                                               LL        Georginio       Oliver
+46Hoffenheim GER       9 34 13 7 14 58 60 -2 46 1.35 55.1 52.5 2.5        0.07L     11227Rutter - 8      Baumann
+                                                                              DL
+  Leicester                                                                   LW         Jamie Vardy Kasper
+47City          ENG    9 36 13 9 14 57 57    0 48 1.33 48.5 58.2 -9.7    -0.27W     32521- 14        Schmeichel
+                                                                              LD         Jonas
+                                                                              WD         Hofmann -
+48M'Gladbach GER      10 34 12 9 13 54 61 -7 45 1.32 57.7 54.7      3     0.09W     2653912          Yann Sommer
+                                                                                         Leandro
+                                                                              LD         Trossard
+                                                                              W          Neal Maupay
+49Brighton      ENG   10 37 11 15 11 39 43 -4 48    1.3 44.3 45.3   -1   -0.03W D   30931- 8
+                                                                              W
+                                                                              W
+                                                                     -        WL         Franck
+50Brest         FRA   11 37 13 9 15 47 53 -6 48     1.3 44.1 55.8 11.6   -0.31L     11629Honorat - 11 Marco Bizot
+                                                                              LD
+                                                                              DD         Ante Budimir Sergio
+51Osasuna       ESP    9 37 12 11 14 37 49 -12 47 1.27 36.3 44.1 -7.8    -0.21L     17017- 8          Herrera
+                                                                              LD
+  Crystal                                                                     W          Wilfried Zaha Vicente
+52Palace        ENG   12 36 10 15 11 47 43   4 45 1.25 44.6 39.3 5.3      0.15W D   24541- 13          Guaita
+                                                                              LD
+                                                                              WL         Iago Aspas -
+53Celta Vigo    ESP   10 37 12 10 15 43 41   2 46 1.24 43.2 44.9 -1.8    -0.05W     1001417
+                                                                              WL
+                                                                              WL         Hugo Ekitike Predrag
+54Reims         FRA   12 37 11 13 13 41 41   0 46 1.24 38 47.2 -9.2      -0.25W     10635- 9          Rajkovi?
+                                                                              LD
+  Eint                                                                        LD
+55Frankfurt     GER   11 34 10 12 12 45 49 -4 42 1.24 44.2 51.5 -7.3     -0.21D     26162                 Kevin Trapp
+                                                                              WD
+                                                                              LW         Ivan Toney -
+56Brentford     ENG   11 37 13 7 17 47 54 -7 46 1.24 46.7 47.8 -1.1      -0.03W     1691612           David Raya
+                                                                              LW
+                                                                              DW         Lukas
+57Wolfsburg     GER   12 34 12 6 16 43 54 -11 42 1.24 48.8 49.8     -1   -0.03D     12018Nmecha - 8 Koen Casteels
+                                                                              LL
+                                                                   -          W          Sebastian        Manuel
+58Bochum        GER   13 34 12 6 16 38 52 -14 42 1.24 40.9 56.8 15.9     -0.47W L   15125Polter - 10      Riemann
+                                                                              DW
+                                                                              WL         Ollie Watkins
+59Aston Villa   ENG   13 36 13 5 18 49 50 -1 44 1.22 42.4 44.6 -2.2      -0.06D     41748- 11
+                                                                              LD
+                                                                              DL                          Giorgi
+60Valencia      ESP   11 37 10 15 12 46 53 -7 45 1.22 37.8 46.1 -8.4     -0.23D     27969                 Mamardashvili
+                                                                              DW
+                                                                              LD         Gerard       Marco
+61Udinese       ITA   12 37 10 14 13 57 58 -1 44 1.19 50.6 50.2 0.4       0.01L     11655Deulofeu - 12Silvestri
+                                                                              W
+                                                                              W
+  Newcastle                                                         -         WL         Callum
+62Utd           ENG   14 36 11 10 15 40 61 -21 43 1.19 36.5 53.5 16.9    -0.47L     51443Wilson - 6
+                                                                              LL
+                                                                   -          DL         Sepe Elye
+63Montpellier   FRA   13 37 12 7 18 49 59 -10 43 1.16 42.4 56.5 14.1     -0.38L     10218Wahi - 10    Jonas Omlin
+                                                                                         Marko
+                                                                    -         DW         Arnautovi? - ?ukasz
+64Bologna       ITA   13 37 11 10 16 43 55 -12 43 1.16 43.1 53.2 10.1    -0.27D L   1384514           Skorupski
+                                                                              L
+                                                                              WD
+  Rayo                                                                        DL         Sergi         Stole
+65Vallecano     ESP   12 37 11 9 17 37 46 -9 42 1.14 42.8 44 -1.3        -0.03L      7834Guardiola - 7 Dimitrievski
+                                                                              LW         Michael
+                                                                   -          LL         Gregoritsch - Rafa?
+66Augsburg      GER   14 34 10 8 16 39 56 -17 38 1.12 38.1 58.3 20.1     -0.59W     151979             Gikiewicz
+                                                                              LL
+                                                                  -           DL
+67Espanyol      ESP   13 37 10 11 16 40 53 -13 41 1.11 37.5 50 12.5      -0.34D     17277
+                                                                              WL
+                                                                              DL         James Ward-
+68SouthamptonENG      15 36 9 13 14 41 61 -20 40 1.11 45.6 54.7 -9.1     -0.25L     30053Prowse - 9 Fraser Forster
+                                                                              WD
+                                                                              DD
+69Getafe        ESP   14 37 8 15 14 32 38 -6 39 1.05 28.3 36.5 -8.2      -0.22D      8702                 David Soria
+                                                                              WD
+                                                                   -          LL
+70Elche         ESP   15 37 10 9 18 37 51 -14 39 1.05 32.3 59.8 27.5     -0.74L     15546Pere Milla - 8
+                                                                            LD
+                                                                            LW         Sofiane         Danijel
+71Angers      FRA   14 37 9 11 17 42 55 -13 38 1.03 42.6 47.7    -5    -0.14L      7370Boufal - 8      Petkovi?
+                                                                            LW         Andrea
+                                                                 -          LL         Pinamonti -     Guglielmo
+72Empoli      ITA   14 37 9 11 17 49 70 -21 38 1.03 46.2 64.1 17.9     -0.48D      632013              Vicario
+                                                                            LL         Xavier
+                                                                 -          WD         Chavalerin      Gauthier
+73Troyes      FRA   15 37 9 10 18 36 52 -16 37      1 39 49.6 10.6     -0.29L      8963Ike Ugbo - 5    Gallon
+                                                                            DD
+                                                                 -          W          Jorge Molina
+74Granada     ESP   16 37 8 13 16 44 61 -17 37      1 39.5 61 21.6     -0.58W L   13475- 10
+                                                                            LW
+                                                                            WD         Richarlison - Jordan
+75Everton     ENG   16 36 10 6 20 39 59 -20 36      1 40.9 50 -9.2     -0.25L     384469             Pickford
+                                                                            LD
+                                                                 -          WL
+76            ESP   18 37 7 15 15 34 51 -17 36 0.97 39.6 52.5 12.9     -0.35D     14055
+                                                                            DL
+                                                                            DD         Sasa
+77Stuttgart   GER   15 34 7 12 15 41 59 -18 33 0.97 45.3 51.5 -6.3     -0.18W     27052Kalajdzic - 6
+                                                                            LL
+                                                                 -          LL         Daniele
+78Spezia      ITA   15 37 10 6 21 41 68 -27 36 0.97 37.3 66.6 29.3     -0.79W      6380Verde - 8     Ivan Provedel
+                                                                            WL         Vedat Muriqi
+                                                                            LD         Salva Sevilla
+79Mallorca    ESP   17 37 9 9 19 34 63 -29 36 0.97 38.7 47.5 -8.9      -0.24W     12712- 5           Manolo Reina
+                                                                            WD
+  Clermont                                                                  LW         Mohamed         Ouparine
+80Foot        FRA   16 37 9 9 19 37 67 -30 36 0.97 42.7 51 -8.3        -0.22L     10425Bayo - 13       Djoco
+                                                                            W
+                                                                -           WD         Stevan          Alexander
+81Hertha BSC GER    16 34 9 6 19 37 71 -34 33 0.97 34.1 55.3 21.2      -0.62L L   23500Joveti? - 6     Schwolow
+                                                                            WL
+                                                                            LL         Terem Moffi -
+82Lorient     FRA   17 37 8 11 18 34 62 -28 35 0.95 42.5 51.7 -9.1     -0.25D     123938             Paul Nardi
+                                                                            DL
+                                                                 -          LL         Raphael Dias
+83Leeds UnitedENG   17 37 8 11 18 40 78 -38 35 0.95 45.8 69.1 23.4     -0.63D     36308Belloli - 10 Illan Meslier
+                                                                            W
+                                                                            W
+                                                                 -          WL         Maxwel
+84Burnley     ENG   18 36 7 13 16 32 50 -18 34 0.94 35.9 53.6 17.8     -0.49L     19163Cornet - 8      Nick Pope
+                                                                            LL
+                                                                -           DW         Francesco
+85Sampdoria   ITA   16 36 9 6 21 42 59 -17 33 0.92 34.5 53.3 18.8      -0.52L      8756Caputo - 11 Emil Audero
+                                                                            LD
+                                                                            WL
+86Levante     ESP   19 37 7 11 19 47 74 -27 32 0.86 54 53.8 0.3         0.01W     14961
+                                                                            LL
+                                                                 -          DW                         Alexandre
+87Metz        FRA   18 37 6 13 18 35 64 -29 31 0.84 29.8 58.8 29.1     -0.79W     14413                Oukidja
+                                                                            LW
+                                                                -           LW                         Fernando
+88            ESP   20 37 8 7 22 31 64 -33 31 0.84 36.6 56.7 20.2      -0.55L     10942Joselu - 14     Pacheco
+                                                                            DL
+                                                                 -          LL         Wahbi Khazri Paul
+89            FRA   19 37 7 10 20 41 76 -35 31 0.84 39.4 59.1 19.6     -0.53L     21806- 10         Bernardoni
+
+                                                                            WD         Federico
+                                                                 -          WD         Bonazzoli -
+90Salernitana ITA   17 37 7 10 20 33 74 -41 31 0.84 35.9 63.5 27.6     -0.75D     1290010              Vid Belec
+                                                                            LL
+                                                                 -          DL         Masaya
+91Arminia     GER   17 34 5 13 16 27 53 -26 28 0.82 28.2 62.3 34.1        -1D     16773Okugawa - 8 Stefan Ortega
+                                                                            WL
+                                                                 -          LD                         Alessio
+92Cagliari    ITA   18 37 6 11 20 34 68 -34 29 0.78 37.4 60.8 23.4     -0.63L      9400                Cragno
+                                                                            LW
+                                                                 -          LW         Mattia Destro Salvatore
+93Genoa       ITA   19 37 4 16 17 27 59 -32 28 0.76 36.8 50.6 13.8     -0.37L     11628- 9           Sirigu
+                                                                            DL
+                                                                 -          LL         Hwang Ui-jo
+94Bordeaux    FRA   20 37 5 13 19 48 89 -41 28 0.76 41.3 68.5 27.2     -0.73D     22083- 11
+                                                                            LL
+                                                                   -        LW         Thomas          Sergio
+95Venezia     ITA   20 37 6 8 23 34 69 -35 26     0.7 35.4 70.5 35.1   -0.95D      6705Henry - 9       Romero
+                                                                          LL
+                                                                 -        LD        Emmanuel
+96Watford    ENG     19 37 6 5 26 33 75 -42 23 0.62 37.8 64.1 26.3   -0.71L    20614Dennis - 10 Ben Foster
+                                                                          LL
+                                                               -          LL        Teemu Pukki
+97Norwich City ENG   20 37 5 7 25 23 79 -56 22 0.59 33 73.3 40.4     -1.09D    26826- 11        Tim Krul
+                                                                          DL
+                                                                 -        DL        Branimir     Sascha
+98           GER     18 34 3 9 22 28 82 -54 18 0.53 30.7 60.3 29.6   -0.87L     7672Hrgota - 9   Burchert
+
