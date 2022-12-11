@@ -1,0 +1,34 @@
+# Honours Project Report
+
+## Monsoon 2023
+
+
+
+### Shubhankar Kamthankar
+
+### 2020114004
+
+### Faculty Advisor - Dr. Chiranjeevi Yarra
+
+
+
+### Abstract
+
+The initial goal of this honours project was to learn regarding Indian accents and study about them in the non-native context. A major part of the project focused on literature review and a conceptual level understanding from a linguistic perspective as to what constitutes an accent and what contributes to the meaning. Following this were a few attempted paper implementation across data formats i.e. global level embeddings like word2vec and GloVe which do not capture any local contextual representations to SAMU-XLSR and Speech2Vec, which capture audio level information and multilingual correlation among languages.
+
+
+
+### Introduction
+
+In today's world, speech applications are perhaps one of the fastest growing technologies, with several companies like Google (with their Assistant), Amazon (Alexa), Apple (Siri), Microsoft (Cortana) being used by an ever-increasing share of the population. What makes them very popular is the ease of operating them and to a great extent, also owing to their high levels of precision and accuracy. 
+
+Though these are all very fascinating applications, a majority of the Indian rural or uneducated population is not able to enjoy the benefits of sophistication in speech technology like ASRs (Automatic Speech Recognizer), TTS(Text-to-Speech). Here, the problem is that the model themselves are not very useful especially in case of detecting a non-native accent or speech utterance, as they are trained pre-dominantly on native speakers' data. 
+
+This leads to a large percentage of the population missing out on all these facilities because of few dialectal and accent variations.
+
+
+
+### Experiments and Methodology
+
+### Results
+
